@@ -259,10 +259,7 @@ A compact reference for containerising a Python web service.
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__USERNAME-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b)](https://leetcode.com/YOUR-USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR__USERNAME-4338ca?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1e1b4b)](https://www.geeksforgeeks.org/user/YOUR-USERNAME)
 [![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__USERNAME-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1b4b)](https://www.hackerrank.com/profile/YOUR-USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR__USERNAME-7c3aed?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b)](https://www.codechef.com/users/YOUR-USERNAME)
-
 </div>
 
 ---
@@ -275,16 +272,6 @@ A compact reference for containerising a Python web service.
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-sam-jordan&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=aaron-sam-jordan&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=818cf8&dates=6d28d9" alt="Streak Stats" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aaron-sam-jordan&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 
 </div>
 
