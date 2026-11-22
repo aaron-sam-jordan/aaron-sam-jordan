@@ -1,0 +1,58 @@
+name: ASCII Avatar
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ascii:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pillow requests
+
+      - name: Generate ASCII avatar
+        env:
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          python - <<'PY'
+          import io, os, re, requests
+          from PIL import Image, ImageOps
+
+          user = os.environ["GH_USER"]
+          data = requests.get(f"https://github.com/{user}.png?size=400", timeout=30).content
+          img = ImageOps.autocontrast(Image.open(io.BytesIO(data)).convert("RGB").convert("L"))
+
+          cols = 64
+          rows = int(cols * img.height / img.width * 0.5)
+          img = img.resize((cols, rows))
+
+          chars = " .:-=+*#%@"
+          lines = []
+          for y in range(rows):
+              line = "".join(chars[img.getpixel((x, y)) * (len(chars) - 1) // 255] for x in range(cols))
+              lines.append(line.rstrip())
+
+          block = "<!--ASCII_START-->\n```text\n" + "\n".join(lines) + "\n```\n<!--ASCII_END-->"
+          text = open("README.md", encoding="utf-8").read()
+          text = re.sub(r"<!--ASCII_START-->.*?<!--ASCII_END-->", lambda m: block, text, flags=re.S)
+          open("README.md", "w", encoding="utf-8").write(text)
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "update ascii avatar" || exit 0
+          git pull --rebase
+          git push
