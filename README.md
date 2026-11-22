@@ -211,8 +211,7 @@ Includes a React admin dashboard with KPI cards and line, bar and pie charts to 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aaron-sam-jordan/aaron-sam-jordan/main/profile-3d-contrib/profile-night-view.svg?v=2" alt="Contribution City" width="100%" />
-</div>
+<img src="profile-3d-contrib/profile-night-view.svg" alt="Contribution City" width="100%" /></div>
 
 ---
 
