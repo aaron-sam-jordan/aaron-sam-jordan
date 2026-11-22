@@ -62,13 +62,16 @@ I use AI tools to speed up development, and I make sure I understand and can exp
 
 **Languages and Analytics**
 
-<img src="https://skillicons.dev/icons?i=py,powerbi&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-SSMS-4c1d95?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1e1b4b)
+![Power BI](https://img.shields.io/badge/Power%20BI-6d28d9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI0LjUiIGhlaWdodD0iOSIgcng9IjEiIGZpbGw9IiNGMkM4MTEiLz48cmVjdCB4PSI5Ljc1IiB5PSI3IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjE0IiByeD0iMSIgZmlsbD0iI0YyQzgxMSIvPjxyZWN0IHg9IjE2LjUiIHk9IjIiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjRjJDODExIi8%2BPC9zdmc%2B&labelColor=1e1b4b)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-SSMS-4c1d95?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1TTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg%3D%3D&labelColor=1e1b4b)
 
 **Libraries**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" alt="Libraries" />
+![pandas](https://img.shields.io/badge/pandas-4338ca?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1e1b4b)
+![NumPy](https://img.shields.io/badge/NumPy-6d28d9?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1e1b4b)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7c3aed?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNMTIgMTJWM00xMiAxMmw2LjUgNE0xMiAxMmwtNi41IDQiLz48L3N2Zz4%3D&labelColor=1e1b4b)
 
 **Frameworks**
 
@@ -204,11 +207,11 @@ Includes a React admin dashboard with KPI cards and line, bar and pie charts to 
 
 ---
 
-## Contribution Snake
+## Contribution City
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aaron-sam-jordan/aaron-sam-jordan/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/aaron-sam-jordan/aaron-sam-jordan/main/profile-3d-contrib/profile-night-view.svg" alt="Contribution City" width="100%" />
 
 </div>
 
