@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:4338ca,100:7c3aed&height=220&section=header&text=Aaron%20Sam%20Jordan&fontSize=52&fontColor=ede9fe&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Full%20Stack&descSize=18&descColor=c4b5fd&descAlignY=58" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:4338ca,100:7c3aed&height=220&section=header&text=Aaron%20Sam%20Jordan&fontSize=52&fontColor=ede9fe&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=18&descColor=c4b5fd&descAlignY=58" width="100%" alt="Header" />
 
 <a href="https://github.com/aaron-sam-jordan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Turning+messy+data+into+clear+answers;SQL+%7C+Python+%7C+Data+Analysis;Full+Stack+Builder+%7C+Flask+%2B+React;Final-Year+IT+Student+%7C+Madurai%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Turning+messy+data+into+clear+answers;SQL+%7C+Python+%7C+Power+BI;Analysis+%2B+Full+Stack+Builder;Final-Year+IT+Student+%7C+Madurai%2C+India" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-YOUR__PORTFOLIO-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338ca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aaron--sam--jordan-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaron-sam-jordan)
@@ -39,15 +38,15 @@
 <tr>
 <td>
 
-I am a final-year Information Technology student building a career in data analytics, with an engineering background that lets me carry a project from raw data to a working application. I write SQL and Python to find answers in messy datasets, and I build full stack apps with Flask and React so the answers are usable.
+I am a final-year Information Technology student aiming for an entry-level data analyst role. I use SQL, Python and Power BI to find answers in messy data, and I have built two end-to-end projects: a SQL Server and Power BI analysis of late deliveries, and a full stack resume analysis app.
 
-My work spans **data analysis**, **applied machine learning** (regression, classification and sentiment analysis) and **full stack development**. I approach every project like a product: start with the question, design the data and the API, ship it, then document what the numbers actually mean.
+I use AI tools to speed up development, and I make sure I understand and can explain every query and line of code I ship. Beyond analysis, I have hands-on experience with Flask and React, REST APIs, Postman testing and Docker from two internships.
 
 **Open To**
 
-- Data Analyst roles and internships
-- Junior Data / BI and Analytics Engineering roles
-- Collaborations on data and open source projects
+- Entry-level Data Analyst roles
+- Data and BI internships
+- Collaboration on data projects
 
 </td>
 </tr>
@@ -61,39 +60,38 @@ My work spans **data analysis**, **applied machine learning** (regression, class
 
 <div align="center">
 
-**Languages**
+**Languages and Analytics**
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,powerbi&theme=dark" alt="Languages" />
 
-**Frontend**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-SSMS-4c1d95?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js&theme=dark" alt="Frontend" />
+**Libraries**
 
-**Backend and Databases**
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" alt="Libraries" />
 
-<img src="https://skillicons.dev/icons?i=flask,py,sqlite&theme=dark" alt="Backend" />
+**Frameworks**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-4c1d95?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1e1b4b)
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi&theme=dark" alt="Frameworks" />
 
-**Cloud, DevOps and Tooling**
+**Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,pycharm&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Data Skills
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:------:|:-----------:|:--------|
-| Data Analysis | Hands-on | SQL querying, data cleaning and exploratory analysis with Python and Pandas |
-| Regression | Hands-on | House price prediction with feature engineering and model evaluation |
-| Classification | Hands-on | Spam email detection using engineered numeric features |
-| NLP | Foundational | Real-time sentiment analysis with a trained model behind a React frontend |
-| Model Serving | Foundational | Exposing trained models through Flask APIs |
+| Skill | Level | What I did with it |
+|:-----:|:-----:|:-------------------|
+| SQL | Hands-on | CTEs, window functions, aggregations and joins across a 9-table dataset |
+| Power BI | Hands-on | Interactive dashboard with slicers for delivery performance and revenue |
+| Python | Hands-on | pandas, NumPy and Matplotlib for analysis; Flask for APIs |
+| Reporting | Hands-on | Documented findings with the scripts in a GitHub repository |
 
 </div>
 
@@ -106,18 +104,17 @@ My work spans **data analysis**, **applied machine learning** (regression, class
 
 <br/>
 
-SQL-driven analysis of e-commerce order and delivery data to find where and why deliveries run late.
+Analysis of a Brazilian e-commerce dataset to find the causes of late deliveries.
 
 | | |
 |:--|:--|
-| **Stack** | SQL Server (T-SQL), Olist dataset |
-| **Scale** | [ADD: number of orders / tables analysed] |
-| **Performance** | [ADD: query or pipeline optimisation, if any] |
-| **Security** | [ADD or remove] |
-| **Impact** | [ADD: your headline finding, e.g. late deliveries concentrate in X] |
+| **Stack** | SQL Server, SSMS, Power BI, GitHub |
+| **Scale** | 9 tables: orders, customers, sellers, payments, reviews and more |
+| **Method** | 8 analytical queries using CTEs, window functions, aggregations and joins |
+| **Impact** | Late-delivery rates by customer and seller state, plus a monthly revenue trend with a running total |
 | **Repository** | [ecommerce-delivery-analysis](https://github.com/aaron-sam-jordan/ecommerce-delivery-analysis) |
 
-Business questions are translated into T-SQL queries, with findings documented so a non-technical reader can act on them.
+An interactive Power BI dashboard with slicers shows delivery performance and revenue. All SQL scripts and findings are published in the repository.
 
 </details>
 
@@ -126,58 +123,17 @@ Business questions are translated into T-SQL queries, with findings documented s
 
 <br/>
 
-A web application that takes an uploaded resume, matches it against a job description and returns a match result.
+A full stack web app that scores an uploaded resume against a job description and reports matched and missing skills.
 
 | | |
 |:--|:--|
-| **Stack** | Python (Flask), JavaScript |
-| **Scale** | [ADD] |
-| **Performance** | [ADD] |
-| **Security** | File upload handling and input validation |
-| **Impact** | [ADD: what it helps a user decide] |
+| **Stack** | Python, Flask, React, SQL Server, REST API |
+| **Scale** | User and admin roles, with analysis history stored in SQL Server through ODBC |
+| **Features** | Resume-length checks, experience-years detection and improvement suggestions |
+| **Security** | Role-based access, OTP password reset over email, admins blocked from viewing resumes |
 | **Repository** | [resume-analyser](https://github.com/aaron-sam-jordan/resume-analyser) |
 
-Built end to end: upload flow, matching logic and a results view, structured for deployment.
-
-</details>
-
-<details>
-<summary><b>Rex: Login, Register and Welcome App</b></summary>
-
-<br/>
-
-A full stack authentication app with a Flask backend and a React frontend, deployed to the cloud.
-
-| | |
-|:--|:--|
-| **Stack** | Flask, React (Vite), SQL database |
-| **Scale** | [ADD] |
-| **Performance** | [ADD] |
-| **Security** | [ADD: password hashing / token auth, as implemented] |
-| **Impact** | Practised the full cycle of build, deploy and version control |
-| **Repository** | [rex](https://github.com/aaron-sam-jordan/rex) |
-
-Deployed with Vercel for the frontend, Render for the backend and Aiven for the database.
-
-</details>
-
-<details>
-<summary><b>Docker Flask Demo</b></summary>
-
-<br/>
-
-A small Flask application containerised with Docker and run in GitHub Codespaces.
-
-| | |
-|:--|:--|
-| **Stack** | Python (Flask), Docker, GitHub Codespaces |
-| **Scale** | Single service |
-| **Performance** | Reproducible container build |
-| **Security** | [ADD or remove] |
-| **Impact** | Portable setup that runs the same on any machine |
-| **Repository** | [docker-flask-demo](https://github.com/aaron-sam-jordan/docker-flask-demo) |
-
-A compact reference for containerising a Python web service.
+Includes a React admin dashboard with KPI cards and line, bar and pie charts to track users and analyses.
 
 </details>
 
@@ -191,75 +147,46 @@ A compact reference for containerising a Python web service.
 <tr>
 <td>
 
-### [YOUR ROLE] Intern &nbsp;|&nbsp; Azmith Company
+### Software Development Intern &nbsp;|&nbsp; Amizhth Techno Solutions
 
-`[START MONTH YEAR] - Present`
-
-[ADD: one or two lines on what the team does and where you fit.]
+`[ADD DATES]` &nbsp;|&nbsp; Madurai, Tamil Nadu
 
 **Scope of work**
 
-- [ADD: responsibility or task]
-- [ADD: responsibility or task]
-- [ADD: result you can point to]
+- Worked in a team to build an e-commerce website, from planning to a working application
+- Tested and debugged REST API endpoints using Postman
+- Containerised the application with Docker for a consistent setup across the team
+- Collaborated with team members on development tasks and code updates
 
-![Python](https://img.shields.io/badge/Python-4338ca?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6d28d9?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4c1d95?style=flat-square&logo=git&logoColor=white)
-![ADD SKILL](https://img.shields.io/badge/ADD%20SKILL-7c3aed?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-4338ca?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6d28d9?style=flat-square&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-4c1d95?style=flat-square)
+![Git](https://img.shields.io/badge/Git-7c3aed?style=flat-square&logo=git&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-</div>
+<table>
+<tr>
+<td>
 
----
+### Python Development Intern &nbsp;|&nbsp; Zayith Technologies
 
-## Achievements
+`[ADD DATES]` &nbsp;|&nbsp; Madurai, Tamil Nadu
 
-<div align="center">
+**Scope of work**
 
-| Recognition | Details |
-|:-----------:|:--------|
-| [ADD: title] | [ADD: what it was for and when] |
-| [ADD: title] | [ADD: what it was for and when] |
-| [ADD: title] | [ADD: what it was for and when] |
+- Learned Python fundamentals and wrote working programs using AI-assisted development
+- Practised writing, running and debugging Python code on hands-on tasks
 
-</div>
+![Python](https://img.shields.io/badge/Python-4338ca?style=flat-square&logo=python&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-6d28d9?style=flat-square)
 
----
+</td>
+</tr>
+</table>
 
-## Certifications
-
-<div align="center">
-
-**AWS**
-
-[![AWS](https://img.shields.io/badge/AWS-ADD%20CERTIFICATION-6d28d9?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1e1b4b)](https://www.credly.com/users/YOUR-USERNAME)
-
-**Oracle**
-
-[![Oracle](https://img.shields.io/badge/Oracle-ADD%20CERTIFICATION-4338ca?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1b4b)](https://catalog-education.oracle.com/)
-
-**NPTEL**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-ADD%20COURSE-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://nptel.ac.in/)
-
-**Cisco**
-
-[![Cisco](https://img.shields.io/badge/Cisco-ADD%20CERTIFICATION-4c1d95?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1e1b4b)](https://www.netacad.com/)
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__USERNAME-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b)](https://leetcode.com/YOUR-USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__USERNAME-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1b4b)](https://www.hackerrank.com/profile/YOUR-USERNAME)
 </div>
 
 ---
@@ -272,16 +199,6 @@ A compact reference for containerising a Python web service.
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-sam-jordan&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=aaron-sam-jordan&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=818cf8&dates=6d28d9" alt="Streak Stats" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaron-sam-jordan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ede9fe&area=true&area_color=4c1d95&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -301,16 +218,14 @@ A compact reference for containerising a Python web service.
 
 ```yaml
 learning:
-  - SQL for analytics (joins, window functions, CTEs)
-  - Python for data analysis (Pandas)
+  - Advanced SQL for analytics
+  - Power BI dashboards and data storytelling
 building:
-  - E-commerce delivery analysis (Olist)
   - Football tactics analysis (StatsBomb open data)
 exploring:
   - Docker and cloud deployment
-  - Dashboards and data storytelling
 open_to:
-  - Data Analyst roles and internships
+  - Entry-level Data Analyst roles
 ```
 
 ---
@@ -322,7 +237,6 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-4c1d95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:YOUR-EMAIL@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338ca?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/aaron-sam-jordan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b)](https://YOUR-PORTFOLIO-URL)
 
 </div>
 
